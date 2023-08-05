@@ -1,5 +1,5 @@
 <h1 align="center">Raven B-</h1>
-**MAKE SURE TO JOIN:** https://discord.com/invite/A9XhxPDzex
+# MAKE SURE TO JOIN: https://discord.com/invite/A9XhxPDzex
 
 # Why?
 The dev is retarded, continues to paste public code into his dogshit client, aswell as for practice in reverse engineering.
