@@ -16,8 +16,8 @@ apart from that in terms of security absolutely nothing was changed.
 - [ethanol][ethanolA] - making this awesome README, providing emotional support for _3000IQPlay
 - Atom - providing a jar.
 
-# Fun fact about Mitfox
-- The developer him self added a code decompiled by CFR on his YouTube banner (Just look at it LMAO)
+# fun fact about Mitfox
+- the developer him self added code decompiled by CFR on his YouTube banner (Just look at it LMAO)
 ![image](https://github.com/Cool-Cracking-Team/ravenb-/assets/75604883/5e61c3f5-e4ad-470b-a47f-9b14911d4374)
 
 # Screenshots
