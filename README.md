@@ -23,7 +23,7 @@ To download this amazing client click [here][download]
 
 # Fun fact about Mitfox
 - The developer himself added code decompiled by CFR on his YouTube banner (just look at it LMAO)
-![image](https://github.com/Cool-Cracking-Team/RavenB-/assets/75604883/5e61c3f5-e4ad-470b-a47f-9b14911d4374)
+![image](https://cdn.discordapp.com/attachments/1136019954571948073/1137480158161412177/image.png)
 
 # Screenshots
 ![image](https://github.com/Cool-Cracking-Team/RavenB-/blob/main/image.png)
