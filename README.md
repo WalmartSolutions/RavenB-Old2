@@ -7,9 +7,9 @@
 # Why?
 The dev is retarded, continues to paste public code into his dogshit client, aswell as for practice in reverse engineering.
 
-since the last crack the dev managed to use the same public Bozar (Bozo) obfuscator aswell as Scuti (Scummy).
+Since the last crack the dev managed to use the same public Bozar (Bozo) obfuscator aswell as Scuti (Scummy).
 
-apart from that in terms of security absolutely nothing was changed.
+Apart from that in terms of security absolutely nothing was changed.
 
 [3000IQPlayA]: https://github.com/3000IQPlay
 [ethanolA]: https://github.com/eurquake
