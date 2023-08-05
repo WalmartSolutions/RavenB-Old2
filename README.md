@@ -17,7 +17,7 @@ apart from that in terms of security absolutely nothing was changed.
 - Atom - providing a jar.
 
 # Fun fact about Mitfox
-- the developer him self added code decompiled by CFR on his YouTube banner (Just look at it LMAO)
+- The developer him self added code decompiled by CFR on his YouTube channel banner (Just look at it LMAO)
 ![image](https://github.com/Cool-Cracking-Team/RavenB-/assets/75604883/d8a29b18-fc20-4d49-a994-71393f48ec55)
 
 # Screenshots
