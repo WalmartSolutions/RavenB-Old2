@@ -7,6 +7,12 @@ since the last crack the dev managed to use the same public Bozar (Bozo) obfusca
 
 apart from that in terms of security absolutely nothing was changed.
 
+# screenshots
+![image](https://github.com/Cool-Cracking-Team/ravenb-/blob/main/image.png)
+
+![image0](https://github.com/Cool-Cracking-Team/ravenb-/blob/main/discord.png)
+![image1](https://github.com/Cool-Cracking-Team/ravenb-/blob/main/image1.png)
+
 [3000IQPlayA]: https://github.com/3000IQPlay
 [ethanolA]: https://github.com/eurquake
 
