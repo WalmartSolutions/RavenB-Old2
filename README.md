@@ -20,7 +20,7 @@ Apart from that in terms of security absolutely nothing was changed.
 - Mitfox - for making the client.
 - [3000IQPlay][3000IQPlayA] - cracking + deobfuscating the client.
 - [ethanol][ethanolA] - making this awesome README, providing emotional support for 3000IQPlay
-- ? - providing a jar.
+- Atom - providing a jar.
 
 # Download
 To download this amazing client click [here][download] 
