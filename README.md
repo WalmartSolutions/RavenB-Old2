@@ -1,6 +1,6 @@
 <h1 align="center">Raven B-</h1>
 
-**MAKE SURE TO JOIN: https://discord.com/invite/A9XhxPDzex**
+**MAKE SURE TO JOIN: https://discord.gg/MmFmqRjdDV**
 
 **Acid Development - https://discord.gg/fQevUHwqzZ**
 
